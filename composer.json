@@ -1,6 +1,6 @@
 {
     "name": "sanchescom/json-helper",
-    "description": "PHP library for working with wifi network",
+    "description": "This library provides helper functions for working with json.",
     "license": "GPL-3.0",
     "authors": [
         {
