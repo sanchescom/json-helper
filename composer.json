@@ -25,7 +25,7 @@
         "fix-style": "./vendor/bin/phpcbf --standard=PSR2 ./src"
     },
     "require": {
-        "php": "^7.2.8",
+        "php": "^7.2",
         "ext-json": "*"
     },
     "require-dev": {
