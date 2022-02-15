@@ -1,5 +1,5 @@
 {
-    "name": "sanchescom/json-helper",
+    "name": "sanchescom/json-helper-php8",
     "description": "This library provides helper functions for working with json.",
     "license": "GPL-3.0",
     "authors": [
